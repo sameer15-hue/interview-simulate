@@ -1,0 +1,65 @@
+[
+  {
+    "topic": "JavaScript",
+    "questions": [
+      {
+        "question": "What is a closure in JavaScript?",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Explain the concept of 'this' in JavaScript.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the purpose of the 'use strict' directive in JavaScript?",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Explain the event loop in JavaScript.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "topic": "React",
+    "questions": [
+      {
+        "question": "What is the purpose of the 'useState' hook in React?",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Explain the concept of props in React.",
+        "difficulty": "easy"
+      },
+      {
+        "question": "What is the purpose of the 'useEffect' hook in React?",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Explain the concept of state management in React using Redux.",
+        "difficulty": "hard"
+      }
+    ]
+  },
+  {
+    "topic": "CSS",
+    "questions": [
+      {
+        "question": "What is the purpose of the 'box-sizing' property in CSS?",
+        "difficulty": "easy"
+      },
+      {
+        "question": "Explain the concept of responsive design using CSS.",
+        "difficulty": "medium"
+      },
+      {
+        "question": "What is the purpose of CSS preprocessors like Sass or Less?",
+        "difficulty": "medium"
+      },
+      {
+        "question": "Explain the concept of CSS specificity and how it works.",
+        "difficulty": "hard"
+      }
+    ]
+  }
+]
