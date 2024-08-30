@@ -1,0 +1,25 @@
+[
+    {
+      "topic": "JavaScript",
+      "questions": [
+        {
+          "question": "What is a closure in JavaScript?",
+          "answer": "A closure is a function that retains access to its lexical scope, even when the function is executed outside that scope.",
+          "criteria": {
+            "correct": 50,
+            "partially_correct": 25,
+            "incorrect": 0
+          }
+        },
+        {
+          "question": "Explain the concept of 'this' in JavaScript.",
+          "answer": "The value of 'this' depends on the context in which a function is called.",
+          "criteria": {
+            "correct": 50,
+            "partially_correct": 25,
+            "incorrect": 0
+          }
+        }
+      ]
+    }
+  ]
